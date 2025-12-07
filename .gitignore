@@ -1,0 +1,6 @@
+.env
+vwnv
+db.sqlite3
+__pycache__
+students/migrations/*
+.idea
